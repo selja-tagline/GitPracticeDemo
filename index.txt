@@ -1,0 +1,8 @@
+
+This is demo file of Git.
+This is changes before commit 2.
+
+created by selja bhalala
+
+added new folder
+click here
